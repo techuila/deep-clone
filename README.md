@@ -1,4 +1,4 @@
-# node-loopie [![NPM version](https://img.shields.io/npm/v/@techuila/deep-clone.svg?style=flat)](https://www.npmjs.com/package/@techuila/deep-clone) [![NPM monthly downloads](https://img.shields.io/npm/dm/@techuila/deep-clone.svg?style=flat)](https://www.npmjs.com/package/@techuila/deep-clone) [![NPM total downloads](https://img.shields.io/npm/dt/@techuila/deep-clone.svg?style=flat)](https://www.npmjs.com/package/@techuila/deep-clone)
+# deep-clone [![NPM version](https://img.shields.io/npm/v/@techuila/deep-clone.svg?style=flat)](https://www.npmjs.com/package/@techuila/deep-clone) [![NPM monthly downloads](https://img.shields.io/npm/dm/@techuila/deep-clone.svg?style=flat)](https://www.npmjs.com/package/@techuila/deep-clone) [![NPM total downloads](https://img.shields.io/npm/dt/@techuila/deep-clone.svg?style=flat)](https://www.npmjs.com/package/@techuila/deep-clone)
 
 Deep clones all fields of the original objects even functions.
 
