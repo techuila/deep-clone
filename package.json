@@ -1,6 +1,6 @@
 {
 	"name": "@techuila/deep-clone",
-	"version": "1.0.6",
+	"version": "1.0.8",
 	"description": "Deep clones all fields of the original objects even functions.",
 	"main": "index.js",
 	"repository": {
