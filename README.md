@@ -21,7 +21,7 @@ import deepClone from '@techuila/deep-clone';
 Using require:
 
 ```js
-const deepClone from '@techuila/deep-clone';
+const deepClone = require('@techuila/deep-clone');
 ```
 
 ```js
